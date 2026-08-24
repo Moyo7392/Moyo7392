@@ -24,11 +24,15 @@ An AI-assisted diabetic-retinopathy screening and triage demo with five-level se
 
 `Python` · `PyTorch` · `FastAPI` · `Next.js` · `TypeScript` · `Grad-CAM`
 
+[Live demo](https://ocuscreen.vercel.app) · [CI](https://github.com/Moyo7392/ocuscreen/actions/workflows/ci.yml)
+
 ### [IMAFE Incognito](https://github.com/Moyo7392/imafe-incognito)
 
 A desktop privacy project for encrypted file storage and image/audio steganography. It combines AES-256-GCM encryption, password-based key derivation, redundant carrier encoding, an authenticated local Python API, and a sandboxed Electron interface.
 
 `Python` · `Electron` · `JavaScript` · `AES-GCM` · `NumPy` · `Pillow` · `GitHub Actions`
+
+[Source release](https://github.com/Moyo7392/imafe-incognito/releases/tag/v1.0.0) · [CI](https://github.com/Moyo7392/imafe-incognito/actions/workflows/ci.yml)
 
 ### [Vendor invoice automation](https://github.com/Moyo7392/invoice-operations-case-study)
 
