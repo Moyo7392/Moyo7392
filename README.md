@@ -24,6 +24,12 @@ An AI-assisted diabetic-retinopathy screening and triage demo with five-level se
 
 `Python` · `PyTorch` · `FastAPI` · `Next.js` · `TypeScript` · `Grad-CAM`
 
+### [IMAFE Incognito](https://github.com/Moyo7392/imafe-incognito)
+
+A desktop privacy project for encrypted file storage and image/audio steganography. It combines AES-256-GCM encryption, password-based key derivation, redundant carrier encoding, an authenticated local Python API, and a sandboxed Electron interface.
+
+`Python` · `Electron` · `JavaScript` · `AES-GCM` · `NumPy` · `Pillow` · `GitHub Actions`
+
 ### [Vendor invoice automation](https://github.com/Moyo7392/invoice-operations-case-study)
 
 A role-aware application that moves invoice intake, attachments, PDF generation, approvals, payment tracking, reporting, search, saved views, and exports into one workflow for property-management operations.
@@ -45,7 +51,7 @@ A native Android application for campus event discovery, registration, chat, eve
 ## Core technologies
 
 - **Languages:** TypeScript, JavaScript, Python, Kotlin, Java, SQL
-- **Frontend:** React, Next.js, Jetpack Compose, Tailwind CSS
+- **Frontend and desktop:** React, Next.js, Electron, Jetpack Compose, Tailwind CSS
 - **Backend and data:** Node.js, FastAPI, Firebase, Firestore, REST APIs
 - **AI and automation:** PyTorch, Gemini/OpenAI APIs, Grad-CAM, Make.com
 - **Delivery:** Git, GitHub Actions, Docker, Vercel, Firebase
