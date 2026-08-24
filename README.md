@@ -24,7 +24,7 @@ An AI-assisted diabetic-retinopathy screening and triage prototype with five-lev
 
 `Python` · `PyTorch` · `FastAPI` · `Next.js` · `TypeScript` · `Grad-CAM`
 
-[Live demo](https://ocuscreen.vercel.app) · [CI](https://github.com/Moyo7392/ocuscreen/actions/workflows/ci.yml)
+[Source code](https://github.com/Moyo7392/ocuscreen) · [CI](https://github.com/Moyo7392/ocuscreen/actions/workflows/ci.yml)
 
 ### [IMAFE Incognito](https://github.com/Moyo7392/imafe-incognito)
 
