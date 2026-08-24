@@ -1,76 +1,67 @@
 # Moyosore Adeyemi
 
-**Full-Stack Software Engineer | AI & Automation | Co-Founder @ Code Block Studios**
+Full-stack software engineer building production web applications, AI-assisted workflows, and business automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moyosore--adeyemi-blue?style=flat&logo=linkedin)](https://linkedin.com/in/moyosore-adeyemi-891608316) [![GitHub](https://img.shields.io/badge/GitHub-Moyo7392-black?style=flat&logo=github)](https://github.com/Moyo7392)
+[LinkedIn](https://linkedin.com/in/moyosore-adeyemi-891608316) · Arlington, Texas · moyosoreadeyemiwebdevelop@gmail.com
 
-Arlington, TX | moyosoreadeyemiwebdevelop@gmail.com
+## About
 
----
+I am a Computer Science student at The University of Texas at Arlington, graduating in December 2026. I build software end to end—from product workflows and responsive interfaces to APIs, data models, authentication, cloud deployment, and operational support.
 
-## About Me
+Alongside my studies, I co-founded Code Block Studios and help build software for real business workflows. I am currently seeking full-time software engineering opportunities where I can contribute across full-stack development, AI-enabled products, and automation.
 
-Results-driven full-stack software engineer and CS graduate with 3+ years of experience delivering AI-powered automation systems, business process tools, and scalable web applications for real-world clients. Co-founder of Code Block Studios, a software startup that has shipped production systems across real estate, property management, and e-commerce.
+## Selected work
 
-I own projects end-to-end from architecture and development to deployment and ongoing support, with a track record of eliminating manual workflows and measurably reducing operational costs.
+### DealFW operations platform
 
----
+An internal warehouse and auction platform used in day-to-day operations. I built major parts of the full-stack workflow for inventory intake, AI-assisted product identification, condition testing, lot assignment, labels, exports, employee access, and operational reporting.
 
-## Tech Stack
+`Next.js` · `TypeScript` · `Firebase` · `Cloud Functions` · `Gemini` · `React`
 
-**Languages:** Python, JavaScript (ES6+), TypeScript, Java, C/C++, SQL, Apex (Salesforce)
-**Frontend:** React.js, Next.js, Tailwind CSS, HTML5/CSS3
-**Backend:** Node.js, Express.js, REST APIs, WebSockets, Google Apps Script
-**AI & Automation:** Claude API, OpenAI API, LangChain, LLM prompt engineering, RAG pipelines
-**Databases:** Firebase Firestore, Supabase, PostgreSQL, MongoDB, Redis
-**Cloud & DevOps:** Vercel, Railway, Firebase, AWS, Docker, GitHub Actions, CI/CD
-**Tools:** Figma, Postman, Salesforce CRM, Shopify, Git/GitHub
+### OcuScreen
 
----
+An AI-assisted diabetic-retinopathy screening and triage demo with five-level severity output, confidence reporting, image-quality gates, Grad-CAM visualization, history, and PDF export. The training pipeline uses EfficientNet-B0 and APTOS 2019 data; the product is explicitly framed as decision support, not diagnosis.
 
-## What I Build
+`Python` · `PyTorch` · `FastAPI` · `Next.js` · `TypeScript` · `Grad-CAM`
 
-- AI automation systems that eliminate manual workflows for businesses
-- Full-stack web applications with modern, responsive UIs
-- Internal business tools, dashboards, and CRM integrations for real clients
-- E-commerce storefronts and third-party API integrations
+### Vendor invoice operations platform
 
----
+A role-aware application that moves invoice intake, attachments, PDF generation, approvals, payment tracking, reporting, search, saved views, and exports into one workflow for property-management operations.
 
-## Featured Projects
+`Next.js` · `TypeScript` · `Firebase` · `PDFKit` · `Recharts`
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [Automated Invoice System](https://github.com/Moyo7392) | Google Apps Script | Eliminated 100% of manual invoice work — auto-generates PDFs, resolves vendor data, emails invoices on form submit |
-| [Zillow Lead Automation](https://github.com/Moyo7392) | Python, REST APIs | Automated lead ingestion with deduplication and scoring logic, reducing redundant CRM entries by ~60% |
-| [AI Blog Generator](https://github.com/Moyo7392) | React, Node.js, Claude API | Full-stack SEO content platform that ingests news and auto-generates optimized blog posts with CI/CD |
-| [AI Lead Generation Pipeline](https://github.com/Moyo7392) | Python, Claude API | Outreach funnel sourcing real estate investors, reducing manual effort by 70% |
-| [Resident Management System](https://github.com/Moyo7392) | Firebase, Node.js | Internal property management app with full CRUD for residents and maintenance requests |
-| [AI Exam Prep Platform](https://github.com/Moyo7392) | React, ChatGPT API | Dynamic Q&A platform with Firebase auth and session-based progress tracking |
+### Zillow inquiry automation
 
----
+A Firebase and Make.com workflow that normalizes incoming property addresses, matches inquiries to inventory, and returns structured data for personalized follow-up. It includes authenticated property administration and Firestore-backed CRUD operations.
 
-## Experience Highlights
+`Node.js` · `Firebase` · `React` · `Make.com` · `REST APIs`
 
-**Code Block Studios** - Co-Founder & Lead Developer *(Jan 2023 - Present)*
-10+ clients across real estate, retail, and professional services.
+### [Campus Sports](https://github.com/Moyo7392/campus-sports-app)
 
-**Neighborly Management** - Contract Software Developer *(Jan 2026 - Present)*
-Shipped two production automation systems cutting 5+ hours/week of admin overhead.
+A native Android application for campus event discovery, registration, chat, event management, and in-game scorekeeping tools.
 
-**RFP Homes** - Junior Software Developer *(Jul 2025 - Dec 2025)*
-Built Salesforce Apex integrations and an AI content engine replacing a fully manual publishing workflow.
+`Kotlin` · `Jetpack Compose` · `Firebase Auth` · `Firestore`
 
-**Microsoft** - Engineering Immersion Program *(Summer 2024)*
-Selected for a competitive enterprise software program at Microsoft Irving campus.
+## Core technologies
 
----
+- **Languages:** TypeScript, JavaScript, Python, Kotlin, Java, SQL
+- **Frontend:** React, Next.js, Jetpack Compose, Tailwind CSS
+- **Backend and data:** Node.js, FastAPI, Firebase, Firestore, REST APIs
+- **AI and automation:** PyTorch, Gemini/OpenAI APIs, Grad-CAM, Make.com
+- **Delivery:** Git, GitHub Actions, Docker, Vercel, Firebase
 
-## Education
+## Current focus
 
-**University of Texas at Arlington** - B.S. in Computer Science
-**Tarrant County College** - Associate Degree
+- Production full-stack systems with measurable operational value
+- Reliable AI-assisted workflows with clear human oversight
+- Secure authentication, role-based access, and cloud data design
+- Software engineering roles beginning around December 2026
 
----
+## Background
 
-*Open to contract work and collaborations - moyosoreadeyemiwebdevelop@gmail.com*
+- B.S. Computer Science, The University of Texas at Arlington — expected December 2026
+- Co-Founder, Code Block Studios — August 2023–Present (startup role)
+- Co-Founder | Lead Developer & Operations, DealFW Stockyard Co. — July 2026–Present
+- Technical Intern, Blacks at Microsoft program — technical exposure, mentorship, and professional development
+
+I am open to full-time software engineering opportunities and thoughtful collaborations. Reach me through [LinkedIn](https://linkedin.com/in/moyosore-adeyemi-891608316) or email.
