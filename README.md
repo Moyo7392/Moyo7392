@@ -12,13 +12,13 @@ Alongside my studies, I co-founded Code Block Studios and help build software fo
 
 ## Selected work
 
-### DealFW operations platform
+### [DealFW operations platform](https://github.com/Moyo7392/dealfw-operations-case-study)
 
 An internal warehouse and auction platform used in day-to-day operations. I built major parts of the full-stack workflow for inventory intake, AI-assisted product identification, condition testing, lot assignment, labels, exports, employee access, and operational reporting.
 
 `Next.js` · `TypeScript` · `Firebase` · `Cloud Functions` · `Gemini` · `React`
 
-### OcuScreen
+### [OcuScreen](https://github.com/Moyo7392/ocuscreen)
 
 An AI-assisted diabetic-retinopathy screening and triage demo with five-level severity output, confidence reporting, image-quality gates, Grad-CAM visualization, history, and PDF export. The training pipeline uses EfficientNet-B0 and APTOS 2019 data; the product is explicitly framed as decision support, not diagnosis.
 
