@@ -20,7 +20,7 @@ An internal warehouse and auction platform used in day-to-day operations. I buil
 
 ### [OcuScreen](https://github.com/Moyo7392/ocuscreen)
 
-An AI-assisted diabetic-retinopathy screening and triage demo with five-level severity output, confidence reporting, image-quality gates, Grad-CAM visualization, history, and PDF export. The training pipeline uses EfficientNet-B0 and APTOS 2019 data; the product is explicitly framed as decision support, not diagnosis.
+An AI-assisted diabetic-retinopathy screening and triage prototype with five-level severity output, confidence reporting, image-quality gates, Grad-CAM visualization, local history, and PDF export. The public repository now contains the real frontend, inference API, training experiments, tests, and an honest model card; it is explicitly framed as decision support, not diagnosis.
 
 `Python` · `PyTorch` · `FastAPI` · `Next.js` · `TypeScript` · `Grad-CAM`
 
@@ -40,11 +40,11 @@ A role-aware application that moves invoice intake, attachments, PDF generation,
 
 `Next.js` · `TypeScript` · `Firebase` · `PDFKit` · `Recharts`
 
-### Zillow inquiry automation
+### [Rental inquiry automation](https://github.com/Moyo7392/rental-inquiry-automation)
 
-A Firebase and Make.com workflow that normalizes incoming property addresses, matches inquiries to inventory, and returns structured data for personalized follow-up. It includes authenticated property administration and Firestore-backed CRUD operations.
+A privacy-safe release of a production-derived Zillow inquiry workflow. It ingests Gmail leads, matches inquiries to Firestore property records, drafts source-grounded replies, verifies factual claims, and escalates uncertain or sensitive requests to a human. The public version uses synthetic fixtures and includes 146 reliability tests.
 
-`Node.js` · `Firebase` · `React` · `Make.com` · `REST APIs`
+`Node.js` · `Express` · `Gmail API` · `Firebase` · `LLM APIs` · `OAuth 2.0`
 
 ### [Campus Sports](https://github.com/Moyo7392/campus-sports-app)
 
