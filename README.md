@@ -24,7 +24,7 @@ An AI-assisted diabetic-retinopathy screening and triage demo with five-level se
 
 `Python` · `PyTorch` · `FastAPI` · `Next.js` · `TypeScript` · `Grad-CAM`
 
-### Vendor invoice operations platform
+### [Vendor invoice automation](https://github.com/Moyo7392/invoice-operations-case-study)
 
 A role-aware application that moves invoice intake, attachments, PDF generation, approvals, payment tracking, reporting, search, saved views, and exports into one workflow for property-management operations.
 
